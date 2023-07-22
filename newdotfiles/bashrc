@@ -98,3 +98,4 @@ if ! shopt -oq posix; then
   fi
 fi
 Hi its git test line
+Hi its git test line 2
